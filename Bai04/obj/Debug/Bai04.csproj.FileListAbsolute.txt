@@ -1,0 +1,7 @@
+C:\Users\PC\Desktop\C#\TaDangAnhDuong_2119110313\Bai04\bin\Debug\Bai04.exe.config
+C:\Users\PC\Desktop\C#\TaDangAnhDuong_2119110313\Bai04\bin\Debug\Bai04.exe
+C:\Users\PC\Desktop\C#\TaDangAnhDuong_2119110313\Bai04\bin\Debug\Bai04.pdb
+C:\Users\PC\Desktop\C#\TaDangAnhDuong_2119110313\Bai04\obj\Debug\Bai04.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\C#\TaDangAnhDuong_2119110313\Bai04\obj\Debug\Bai04.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\C#\TaDangAnhDuong_2119110313\Bai04\obj\Debug\Bai04.exe
+C:\Users\PC\Desktop\C#\TaDangAnhDuong_2119110313\Bai04\obj\Debug\Bai04.pdb

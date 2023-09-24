@@ -1,0 +1,6 @@
+C:\Users\PC\Desktop\C#\TaDangAnhDuong_2119110313\Bai03\bin\Debug\Bai03.exe.config
+C:\Users\PC\Desktop\C#\TaDangAnhDuong_2119110313\Bai03\bin\Debug\Bai03.exe
+C:\Users\PC\Desktop\C#\TaDangAnhDuong_2119110313\Bai03\bin\Debug\Bai03.pdb
+C:\Users\PC\Desktop\C#\TaDangAnhDuong_2119110313\Bai03\obj\Debug\Bai03.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\C#\TaDangAnhDuong_2119110313\Bai03\obj\Debug\Bai03.exe
+C:\Users\PC\Desktop\C#\TaDangAnhDuong_2119110313\Bai03\obj\Debug\Bai03.pdb
