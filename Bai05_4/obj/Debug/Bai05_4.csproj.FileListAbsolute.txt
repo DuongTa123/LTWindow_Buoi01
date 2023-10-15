@@ -1,0 +1,10 @@
+C:\Users\PC\Desktop\C#\TaDangAnhDuong_2119110313\Bai05_4\bin\Debug\Bai05_4.exe.config
+C:\Users\PC\Desktop\C#\TaDangAnhDuong_2119110313\Bai05_4\bin\Debug\Bai05_4.exe
+C:\Users\PC\Desktop\C#\TaDangAnhDuong_2119110313\Bai05_4\bin\Debug\Bai05_4.pdb
+C:\Users\PC\Desktop\C#\TaDangAnhDuong_2119110313\Bai05_4\obj\Debug\Bai05_4.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\C#\TaDangAnhDuong_2119110313\Bai05_4\obj\Debug\Bai05_4.Form1.resources
+C:\Users\PC\Desktop\C#\TaDangAnhDuong_2119110313\Bai05_4\obj\Debug\Bai05_4.Properties.Resources.resources
+C:\Users\PC\Desktop\C#\TaDangAnhDuong_2119110313\Bai05_4\obj\Debug\Bai05_4.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\C#\TaDangAnhDuong_2119110313\Bai05_4\obj\Debug\Bai05_4.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\C#\TaDangAnhDuong_2119110313\Bai05_4\obj\Debug\Bai05_4.exe
+C:\Users\PC\Desktop\C#\TaDangAnhDuong_2119110313\Bai05_4\obj\Debug\Bai05_4.pdb

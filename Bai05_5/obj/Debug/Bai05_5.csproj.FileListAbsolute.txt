@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\C#\TaDangAnhDuong_2119110313\Bai05_5\bin\Debug\Bai05_5.exe.config
+C:\Users\PC\Desktop\C#\TaDangAnhDuong_2119110313\Bai05_5\bin\Debug\Bai05_5.exe
+C:\Users\PC\Desktop\C#\TaDangAnhDuong_2119110313\Bai05_5\bin\Debug\Bai05_5.pdb
+C:\Users\PC\Desktop\C#\TaDangAnhDuong_2119110313\Bai05_5\bin\Debug\Interop.WMPLib.dll
+C:\Users\PC\Desktop\C#\TaDangAnhDuong_2119110313\Bai05_5\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\PC\Desktop\C#\TaDangAnhDuong_2119110313\Bai05_5\obj\Debug\Bai05_5.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\C#\TaDangAnhDuong_2119110313\Bai05_5\obj\Debug\Interop.WMPLib.dll
+C:\Users\PC\Desktop\C#\TaDangAnhDuong_2119110313\Bai05_5\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\PC\Desktop\C#\TaDangAnhDuong_2119110313\Bai05_5\obj\Debug\Bai05_5.csproj.ResolveComReference.cache
+C:\Users\PC\Desktop\C#\TaDangAnhDuong_2119110313\Bai05_5\obj\Debug\Bai05_5.Form1.resources
+C:\Users\PC\Desktop\C#\TaDangAnhDuong_2119110313\Bai05_5\obj\Debug\Bai05_5.Properties.Resources.resources
+C:\Users\PC\Desktop\C#\TaDangAnhDuong_2119110313\Bai05_5\obj\Debug\Bai05_5.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\C#\TaDangAnhDuong_2119110313\Bai05_5\obj\Debug\Bai05_5.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\C#\TaDangAnhDuong_2119110313\Bai05_5\obj\Debug\Bai05_5.exe
+C:\Users\PC\Desktop\C#\TaDangAnhDuong_2119110313\Bai05_5\obj\Debug\Bai05_5.pdb
