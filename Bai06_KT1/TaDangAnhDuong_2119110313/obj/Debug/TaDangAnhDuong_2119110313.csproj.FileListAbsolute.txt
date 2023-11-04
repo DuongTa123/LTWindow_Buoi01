@@ -1,0 +1,10 @@
+C:\Users\PC\Desktop\C#\New folder\TaDangAnhDuong_2119110313\TaDangAnhDuong_2119110313\bin\Debug\TaDangAnhDuong_2119110313.exe.config
+C:\Users\PC\Desktop\C#\New folder\TaDangAnhDuong_2119110313\TaDangAnhDuong_2119110313\bin\Debug\TaDangAnhDuong_2119110313.exe
+C:\Users\PC\Desktop\C#\New folder\TaDangAnhDuong_2119110313\TaDangAnhDuong_2119110313\bin\Debug\TaDangAnhDuong_2119110313.pdb
+C:\Users\PC\Desktop\C#\New folder\TaDangAnhDuong_2119110313\TaDangAnhDuong_2119110313\obj\Debug\TaDangAnhDuong_2119110313.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\C#\New folder\TaDangAnhDuong_2119110313\TaDangAnhDuong_2119110313\obj\Debug\TaDangAnhDuong_2119110313.Form1.resources
+C:\Users\PC\Desktop\C#\New folder\TaDangAnhDuong_2119110313\TaDangAnhDuong_2119110313\obj\Debug\TaDangAnhDuong_2119110313.Properties.Resources.resources
+C:\Users\PC\Desktop\C#\New folder\TaDangAnhDuong_2119110313\TaDangAnhDuong_2119110313\obj\Debug\TaDangAnhDuong_2119110313.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\C#\New folder\TaDangAnhDuong_2119110313\TaDangAnhDuong_2119110313\obj\Debug\TaDangAnhDuong_2119110313.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\C#\New folder\TaDangAnhDuong_2119110313\TaDangAnhDuong_2119110313\obj\Debug\TaDangAnhDuong_2119110313.exe
+C:\Users\PC\Desktop\C#\New folder\TaDangAnhDuong_2119110313\TaDangAnhDuong_2119110313\obj\Debug\TaDangAnhDuong_2119110313.pdb
